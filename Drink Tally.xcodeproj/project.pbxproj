@@ -16,6 +16,7 @@
 		9FA71B892453830900FCC092 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FA71B872453830900FCC092 /* LaunchScreen.storyboard */; };
 		9FA71B942453830900FCC092 /* Drink_TallyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA71B932453830900FCC092 /* Drink_TallyTests.swift */; };
 		9FA71B9F2453830900FCC092 /* Drink_TallyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA71B9E2453830900FCC092 /* Drink_TallyUITests.swift */; };
+		9FA71BAD245388B500FCC092 /* StartRecordingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA71BAC245388B500FCC092 /* StartRecordingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		9FA71B9A2453830900FCC092 /* Drink TallyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Drink TallyUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FA71B9E2453830900FCC092 /* Drink_TallyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Drink_TallyUITests.swift; sourceTree = "<group>"; };
 		9FA71BA02453830900FCC092 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FA71BAC245388B500FCC092 /* StartRecordingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartRecordingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				9FA71B852453830900FCC092 /* Assets.xcassets */,
 				9FA71B872453830900FCC092 /* LaunchScreen.storyboard */,
 				9FA71B8A2453830900FCC092 /* Info.plist */,
+				9FA71BAC245388B500FCC092 /* StartRecordingViewController.swift */,
 			);
 			path = "Drink Tally";
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				9FA71B812453830700FCC092 /* SecondViewController.swift in Sources */,
 				9FA71B7F2453830700FCC092 /* FirstViewController.swift in Sources */,
+				9FA71BAD245388B500FCC092 /* StartRecordingViewController.swift in Sources */,
 				9FA71B7B2453830700FCC092 /* AppDelegate.swift in Sources */,
 				9FA71B7D2453830700FCC092 /* SceneDelegate.swift in Sources */,
 			);
